@@ -1,8 +1,12 @@
 # SAR Ship Detection
 
 This project was developed by Liam Loughman and Tristan Donzé.
+
 Based on the research paper "Optimal Target Detection Using One Channel SAR Complex Imagery" by Armand Lopès, Jérôme Bruniquel, Franck Sery, Jean-Claude Souyris, and Frédéric Adragna, the project focuses on detecting ships in Sentinel-1 SAR imagery using statistical methods.
-By implementing a combination of the Statistical Whitening Filter (SWF) and the Likelihood Ratio Test (LRT), followed by radiometric thresholding and morphological operations, we developed a robust, non-learning approach for maritime vessel detection. Our methodology was applied to imagery from the Strait of Malacca.
+
+By implementing a combination of the Statistical Whitening Filter (SWF) and the Likelihood Ratio Test (LRT), followed by radiometric thresholding and morphological operations, we developed a robust, non-learning approach for maritime vessel detection. 
+
+Our methodology was applied to imagery from the Strait of Malacca.
 
 ---
 
